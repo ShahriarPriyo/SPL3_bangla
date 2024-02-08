@@ -34,20 +34,6 @@ st.sidebar.write("- Data analysis and visualization")
 st.sidebar.write("- Feature Engineering & Feature Selection")
 st.sidebar.write("- Machine learning")
 
-#Projects
-# st.sidebar.title("Other Projects")
-# st.sidebar.write("Here are some of my projects:")
-# st.sidebar.header("Machine Learning Projects")
-# st.sidebar.subheader("[Used Phone Price Prediction](https://usedphonepriceprediction.azurewebsites.net/)")
-# st.sidebar.write("Description: Using unsupervised learning techniques to predict prices of used phones using their various features such as days used, camera, battery,etc.")
-# st.sidebar.header("Analysis Projects")
-# st.sidebar.subheader("[Stock Analysis Project](https://jayantverma2809-stock-market-analysis-project-app-rrtc54.streamlit.app/)")
-# st.sidebar.write("Description: Under this analysis project, the app does fundamental and technical analysis on the stock provided as input and provides various helpful insights which help investors to take better decisions")
-# st.sidebar.header("Data Preprocessing Projects")
-# st.sidebar.subheader("[EDA & Feature Engineering - Bike Sharing Data](https://lnkd.in/dzjAsajs)")
-# st.sidebar.write("Description: Under this data preprocessing project, I have performed time series analysis, exploratory data analysis and various feature engineering techniques such as transformations, handling outliers, etc to convert raw data into model training ready data.")
-# st.sidebar.subheader("[EDA & Feature Engineering - Wine Quality Data](https://lnkd.in/dKRMT7Ym)")
-# st.sidebar.write("Under this data preprocessing project, I have performed exploratory data analysis and various feature engineering techniques such as transformations, handling outliers, standardization to convert raw data into model training ready data.")
 
 st.write('''
 # Cyberbullying Tweet Recognition App
